@@ -22,3 +22,7 @@ button {
     margin-bottom: 20px;
     overflow: hidden;
   }
+
+  a {
+    margin-right: 5px;
+  }
